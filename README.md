@@ -6,7 +6,7 @@ Author: Christian Laboranowitsch
 Level: Intermediate
 Technologies: Spring Boot, Spring JDBC, JNDI, Tomcat, Spring Rest, Spring Profiles, Spring Testing
 Summary: An example that shows how to handle multiple JNDI datasources in Spring Boot
-Source: <https://github.com/>
+Source: <https://github.com/claboran/spring-boot-jndi-multi>
 
 What is it?
 -----------
